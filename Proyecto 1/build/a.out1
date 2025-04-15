@@ -1,0 +1,107 @@
+**** module/scope: BancoDeRegistros8088
+     Flip-Flops   : 0
+     Logic Gates  : 0
+**** module/scope: BancoDeRegistros8088.DecoEscritura
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[5]: 1 unaccounted
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.MuxSalida
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LPM[5]: 1 unaccounted
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs
+     Flip-Flops   : 0
+     Logic Gates  : 0
+**** module/scope: BancoDeRegistros8088.Regs.RegAH
+     Flip-Flops   : 8
+     Logic Gates  : 16
+     MUX[2]: 8 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegAL
+     Flip-Flops   : 8
+     Logic Gates  : 16
+     MUX[2]: 8 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegBH
+     Flip-Flops   : 8
+     Logic Gates  : 16
+     MUX[2]: 8 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegBL
+     Flip-Flops   : 8
+     Logic Gates  : 16
+     MUX[2]: 8 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegBP
+     Flip-Flops   : 16
+     Logic Gates  : 32
+     MUX[2]: 16 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegCH
+     Flip-Flops   : 8
+     Logic Gates  : 16
+     MUX[2]: 8 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegCL
+     Flip-Flops   : 8
+     Logic Gates  : 16
+     MUX[2]: 8 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegDH
+     Flip-Flops   : 8
+     Logic Gates  : 16
+     MUX[2]: 8 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegDI
+     Flip-Flops   : 16
+     Logic Gates  : 32
+     MUX[2]: 16 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegDL
+     Flip-Flops   : 8
+     Logic Gates  : 16
+     MUX[2]: 8 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegSI
+     Flip-Flops   : 16
+     Logic Gates  : 32
+     MUX[2]: 16 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.RegSP
+     Flip-Flops   : 16
+     Logic Gates  : 32
+     MUX[2]: 16 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.Regs.mux2x8
+     Flip-Flops   : 0
+     Logic Gates  : 16
+     MUX[2]: 8 slices
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: BancoDeRegistros8088.TriEstado
+     Flip-Flops   : 0
+     Logic Gates  : 32
+     MUX[2]: 16 slices
+**** TOTALS
+     Flip-Flops   : 128
+     Logic Gates  : 304
+     MUX[2]: 152 slices
+     LPM[5]: 2 unaccounted
+     LOG[13]: 15 unaccounted
+     LOG[14]: 15 unaccounted
