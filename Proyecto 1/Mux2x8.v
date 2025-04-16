@@ -9,12 +9,12 @@
 module Mux2x8 (
     input [7:0] ENT1,
     input [7:0] ENT2,
-    input SEL,
+    input SEL_H_L,
     output reg [7:0] OUT
 );
 
 always @(*) begin
-    case (SEL)
+    case (SEL_H_L)
         1'b0 : OUT = ENT1;
         1'b1 : OUT = ENT2; 
     endcase

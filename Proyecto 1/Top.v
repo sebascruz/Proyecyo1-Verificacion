@@ -28,10 +28,16 @@ module BancoDeRegistros8088 (
 wire [11:0] WE;
 Deco DecoEscritura (WR, SEL, WE);
 
+wire SEL_H_L;
+assign SEL_H_L = (
+    SEL == 4'b0100 || SEL == 4'b0101 || SEL == 4'b0110 || SEL == 4'b0111 || // AH, CH, DH, BH
+    SEL == 4'b1000 || SEL == 4'b1001 || SEL == 4'b1010 || SEL == 4'b1011    // AX, CX, DX, BX
+);
+
 //Llamada a Registros
 wire [7:0] AL, CL, DL, BL, AH, CH, DH, BH;
 wire [15:0] SP, BP, SI, DI;
-Registros Regs (CLK, RST, SEL[3], DATA, WE, AL, CL, DL, BL, AH, CH, DH, BH, SP, BP, SI, DI);
+Registros Regs (CLK, RST, SEL[3], SEL_H_L, DATA, WE, AL, CL, DL, BL, AH, CH, DH, BH, SP, BP, SI, DI);
 
 //Llamada a mux16x1
 wire [15:0] SALIDA;

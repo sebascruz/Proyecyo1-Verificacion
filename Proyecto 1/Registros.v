@@ -10,7 +10,8 @@
 module Registros (
     input CLK, 
     input RST, 
-    input SEL, 
+    input SEL,  
+    input SEL_H_L,            
     input [15:0] DATA, 
     input [11:0] WE,
 
@@ -28,16 +29,17 @@ module Registros (
     output wire [15:0] SI,
     output wire [15:0] DI 
 );
+
     
 //Llamada al mux para selecionar High o Low en los registros de 8 bits
 wire [7:0] Temp;
-Mux2x8 mux2x8 (DATA[7:0], DATA [15:8], SEL, Temp);
+Mux2x8 mux2x8 (DATA[7:0], DATA [15:8], SEL_H_L, Temp);
 
 //Llamada a Reg8bits para "crear" los registros de 8 bits
-Reg8bits RegAL (CLK, RST, WE[11], Temp, AL); 
-Reg8bits RegCL (CLK, RST, WE[10], Temp, CL); 
-Reg8bits RegDL (CLK, RST, WE[9], Temp, DL); 
-Reg8bits RegBL (CLK, RST, WE[8], Temp, BL); 
+Reg8bits RegAL (CLK, RST, WE[11], DATA[7:0], AL); 
+Reg8bits RegCL (CLK, RST, WE[10], DATA[7:0], CL); 
+Reg8bits RegDL (CLK, RST, WE[9], DATA[7:0], DL); 
+Reg8bits RegBL (CLK, RST, WE[8], DATA[7:0], BL); 
 Reg8bits RegAH (CLK, RST, WE[7], Temp, AH); 
 Reg8bits RegCH (CLK, RST, WE[6], Temp, CH); 
 Reg8bits RegDH (CLK, RST, WE[5], Temp, DH); 

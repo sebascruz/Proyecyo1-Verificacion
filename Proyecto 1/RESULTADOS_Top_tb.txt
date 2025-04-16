@@ -1,0 +1,17 @@
+Lectura desde AL: 00a1
+Lectura desde AH: 00a2
+Lectura desde CL: 00c1
+Lectura desde CH: 00c2
+Lectura desde DL: 00d1
+Lectura desde DH: 00d2
+Lectura desde BL: 00b1
+Lectura desde BH: 00b2
+Lectura desde AX: a3a4
+Lectura desde CX: c3c4
+Lectura desde DX: d3d4
+Lectura desde BX: b3b4
+Lectura desde SP: 1234
+Lectura desde BP: 2345
+Lectura desde SI: 3456
+Lectura desde DI: 4567
+Test completado

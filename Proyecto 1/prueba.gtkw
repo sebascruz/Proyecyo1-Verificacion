@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Apr 16 02:37:22 2025
+[*]
+[dumpfile] "C:\Users\Sebastian Cruz\Desktop\GIT\Proyecyo1-Verificacion\Proyecto 1\Top_tb.vcd"
+[dumpfile_mtime] "Wed Apr 16 02:22:51 2025"
+[dumpfile_size] 9423
+[savefile] "C:\Users\Sebastian Cruz\Desktop\GIT\Proyecyo1-Verificacion\Proyecto 1\prueba.gtkw"
+[timestart] 0
+[size] 1920 1057
+[pos] -1 -1
+*-6.308965 321 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] BancoDeRegistros8088_tb.
+[treeopen] BancoDeRegistros8088_tb.DUT.
+[treeopen] BancoDeRegistros8088_tb.DUT.Regs.
+[sst_width] 443
+[signals_width] 363
+[sst_expanded] 1
+[sst_vpaned_height] 314
+@28
+BancoDeRegistros8088_tb.DUT.CLK
+BancoDeRegistros8088_tb.DUT.DecoEscritura.WR
+BancoDeRegistros8088_tb.DUT.DecoEscritura.SEL[3:0]
+BancoDeRegistros8088_tb.DUT.DecoEscritura.WE[11:0]
+BancoDeRegistros8088_tb.DUT.Regs.SP[15:0]
+@22
+BancoDeRegistros8088_tb.DUT.Regs.RegSP.D[15:0]
+BancoDeRegistros8088_tb.DUT.Regs.RegSP.Q[15:0]
+@28
+BancoDeRegistros8088_tb.DUT.Regs.RegAL.RST
+BancoDeRegistros8088_tb.DUT.Regs.RegSP.WriteEnable
+BancoDeRegistros8088_tb.DUT.Regs.RegSP.RST
+BancoDeRegistros8088_tb.DUT.TriEstado.IN[15:0]
+@22
+BancoDeRegistros8088_tb.DUT.TriEstado.OUT[15:0]
+@28
+BancoDeRegistros8088_tb.DUT.TriEstado.SEL
+@22
+BancoDeRegistros8088_tb.DUT.Regs.RegAL.D[7:0]
+BancoDeRegistros8088_tb.DUT.Regs.RegAL.Q[7:0]
+@28
+BancoDeRegistros8088_tb.DUT.Regs.RegAL.WriteEnable
+[pattern_trace] 1
+[pattern_trace] 0

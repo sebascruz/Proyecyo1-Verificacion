@@ -14,14 +14,14 @@ module Reg16bits (
     output reg [15:0] Q 
 );
  
+
 always @(posedge CLK or posedge RST) begin
     if (RST)
-        Q = 16'b0;
+        Q <= 16'b0;
     else if (WriteEnable)
-        Q = D; 
-    else 
-        Q = Q;
+        Q <= D; 
 end
+ 
 
 
 endmodule
