@@ -1,0 +1,11 @@
+Para correr el Top_tb.sv
+iverilog -o Top_tb.vvp Top_tb.sv     
+vvp Top_tb.vvp         
+
+
+Para correr el Top_tb_TESTERySCOREBOARD.sv
+iverilog '-Wall' '-g2012' -o Top_tb_TESTERySCOREBOARD.vvp Top_tb_TESTERySCOREBOARD.sv
+vvp Top_tb_TESTERySCOREBOARD.vvp
+
+
+

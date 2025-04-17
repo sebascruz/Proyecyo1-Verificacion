@@ -18,7 +18,7 @@ assign OUT = SEL ? IN : 16'bz;
 endmodule
 
 
-//varios dispositivos pueden compartir una línea o bus, pero solo uno debe conducir 
+//varios registros pueden compartir una línea de bus, pero solo uno debe conducir 
 //en un momento dado. Usar Z (alta impedancia) permite que un módulo "se desconecte" del bus cuando no le toca transmitir.
 
 

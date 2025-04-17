@@ -1,0 +1,48 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Apr 17 06:17:37 2025
+[*]
+[dumpfile] "C:\Users\Sebastian Cruz\Desktop\GIT\Proyecyo1-Verificacion\Proyecto 1\Top_tb_TESTERySCOREBOARD.vcd"
+[dumpfile_mtime] "Thu Apr 17 05:56:36 2025"
+[dumpfile_size] 19295
+[savefile] "C:\Users\Sebastian Cruz\Desktop\GIT\Proyecyo1-Verificacion\Proyecto 1\TesterSignals.gtkw"
+[timestart] 0
+[size] 1920 1057
+[pos] 1919 -1
+*-5.221359 160 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 249
+[sst_expanded] 1
+[sst_vpaned_height] 314
+@28
+Top_tb_TESTERySCOREBOARD.CLK
+Top_tb_TESTERySCOREBOARD.RD
+@22
+Top_tb_TESTERySCOREBOARD.SEL[3:0]
+@28
+Top_tb_TESTERySCOREBOARD.DATA_en
+Top_tb_TESTERySCOREBOARD.WR
+@22
+Top_tb_TESTERySCOREBOARD.dato_leido[15:0]
+@28
+Top_tb_TESTERySCOREBOARD.DATA_en
+@20000
+-
+-
+@200
+-
+-
+@28
+Top_tb_TESTERySCOREBOARD.CLK
+Top_tb_TESTERySCOREBOARD.RD
+@29
+Top_tb_TESTERySCOREBOARD.SEL[3:0]
+@22
+Top_tb_TESTERySCOREBOARD.DATA_drive[15:0]
+@28
+Top_tb_TESTERySCOREBOARD.DATA_en
+Top_tb_TESTERySCOREBOARD.WR
+@22
+Top_tb_TESTERySCOREBOARD.dato_leido[15:0]
+[pattern_trace] 1
+[pattern_trace] 0

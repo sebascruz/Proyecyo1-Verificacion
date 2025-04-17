@@ -1,0 +1,1046 @@
+Para repeat (20):
+
+Repeticion: 1
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 5663 en registro 1
+Lectura desde reg 1: 0063
+
+Valor de SEL: 0001:
+Valor de DATA_drive: 5663:
+Valor de dato_leido: 0063:
+SCOREBOARD escritura OK: REG = 1 | Dato de entrada = 5663 | Leido = 0063
+
+Repeticion: 2
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 13, dato_leido = 0000
+Leyendo registro 13, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 13 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 3
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 2, dato_leido = 0000
+Leyendo registro 2, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 2 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 4
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 13, dato_leido = 0000
+Leyendo registro 13, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 13 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 5
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo f78c en registro 13
+Lectura desde reg 13: f78c
+
+Valor de SEL: 1101:
+Valor de DATA_drive: f78c:
+Valor de dato_leido: f78c:
+SCOREBOARD escritura OK: REG = 13 | Dato de entrada = f78c | Leido = f78c
+
+Repeticion: 6
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 6, dato_leido = 0000
+Leyendo registro 6, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 6 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 7
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 10, dato_leido = 0000
+Leyendo registro 10, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 10 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 8
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 7, dato_leido = 0000
+Leyendo registro 7, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 7 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 9
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 96ce en registro 15
+Lectura desde reg 15: 96ce
+
+Valor de SEL: 1111:
+Valor de DATA_drive: 96ce:
+Valor de dato_leido: 96ce:
+SCOREBOARD escritura OK: REG = 15 | Dato de entrada = 96ce | Leido = 96ce
+
+Repeticion: 10
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 28bd en registro 5
+Lectura desde reg 5: 0028
+
+Valor de SEL: 0101:
+Valor de DATA_drive: 28bd:
+Valor de dato_leido: 0028:
+SCOREBOARD escritura OK: REG = 5 | Dato de entrada = 28bd | Leido = 0028
+
+Repeticion: 11
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 5, dato_leido = 0028
+Leyendo registro 5, expected[SEL] = 0028
+
+SCOREBOARD lectura OK: REG = 5 | Dato Leido = 0028 | Dato esperado = 0028
+
+Repeticion: 12
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 10, dato_leido = 0000
+Leyendo registro 10, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 10 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 13
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo cc9d en registro 0
+Lectura desde reg 0: 009d
+
+Valor de SEL: 0000:
+Valor de DATA_drive: cc9d:
+Valor de dato_leido: 009d:
+SCOREBOARD escritura OK: REG = 0 | Dato de entrada = cc9d | Leido = 009d
+
+Repeticion: 14
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo d653 en registro 3
+Lectura desde reg 3: 0053
+
+Valor de SEL: 0011:
+Valor de DATA_drive: d653:
+Valor de dato_leido: 0053:
+SCOREBOARD escritura OK: REG = 3 | Dato de entrada = d653 | Leido = 0053
+
+Repeticion: 15
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 5, dato_leido = 0028
+Leyendo registro 5, expected[SEL] = 0028
+
+SCOREBOARD lectura OK: REG = 5 | Dato Leido = 0028 | Dato esperado = 0028
+
+Repeticion: 16
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 72cf en registro 14
+Lectura desde reg 14: 72cf
+
+Valor de SEL: 1110:
+Valor de DATA_drive: 72cf:
+Valor de dato_leido: 72cf:
+SCOREBOARD escritura OK: REG = 14 | Dato de entrada = 72cf | Leido = 72cf
+
+Repeticion: 17
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 10, dato_leido = 0000
+Leyendo registro 10, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 10 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 18
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 618a en registro 12
+Lectura desde reg 12: 618a
+
+Valor de SEL: 1100:
+Valor de DATA_drive: 618a:
+Valor de dato_leido: 618a:
+SCOREBOARD escritura OK: REG = 12 | Dato de entrada = 618a | Leido = 618a
+
+Repeticion: 19
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 8, dato_leido = 009d
+Leyendo registro 8, expected[SEL] = 0000
+
+SCOREBOARD lectura ERROR: REG = 8 | Dato Leido = 009d | Dato esperado = 0000
+
+Repeticion: 20
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 65b6 en registro 9
+Lectura desde reg 9: 65b6
+
+Tester terminado.
+Resumen final:
+Escrituras Totales Correctas: 8
+Escrituras Totales Erroneas: 0
+Lecturas Totales Correctos: 10
+Lecturas Totales Erroneas: 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Para repeat (100)
+
+Repeticion: 1
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 5663 en registro 1
+Lectura desde reg 1: 0063
+
+Valor de SEL: 0001:
+Valor de DATA_drive: 5663:
+Valor de dato_leido: 0063:
+SCOREBOARD escritura OK: REG = 1 | Dato de entrada = 5663 | Leido = 0063
+
+Repeticion: 2
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 13, dato_leido = 0000
+Leyendo registro 13, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 13 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 3
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 2, dato_leido = 0000
+Leyendo registro 2, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 2 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 4
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 13, dato_leido = 0000
+Leyendo registro 13, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 13 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 5
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo f78c en registro 13
+Lectura desde reg 13: f78c
+
+Valor de SEL: 1101:
+Valor de DATA_drive: f78c:
+Valor de dato_leido: f78c:
+SCOREBOARD escritura OK: REG = 13 | Dato de entrada = f78c | Leido = f78c
+
+Repeticion: 6
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 6, dato_leido = 0000
+Leyendo registro 6, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 6 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 7
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 10, dato_leido = 0000
+Leyendo registro 10, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 10 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 8
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 7, dato_leido = 0000
+Leyendo registro 7, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 7 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 9
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 96ce en registro 15
+Lectura desde reg 15: 96ce
+
+Valor de SEL: 1111:
+Valor de DATA_drive: 96ce:
+Valor de dato_leido: 96ce:
+SCOREBOARD escritura OK: REG = 15 | Dato de entrada = 96ce | Leido = 96ce
+
+Repeticion: 10
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 28bd en registro 5
+Lectura desde reg 5: 0028
+
+Valor de SEL: 0101:
+Valor de DATA_drive: 28bd:
+Valor de dato_leido: 0028:
+SCOREBOARD escritura OK: REG = 5 | Dato de entrada = 28bd | Leido = 0028
+
+Repeticion: 11
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 5, dato_leido = 0028
+Leyendo registro 5, expected[SEL] = 0028
+
+SCOREBOARD lectura OK: REG = 5 | Dato Leido = 0028 | Dato esperado = 0028
+
+Repeticion: 12
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 10, dato_leido = 0000
+Leyendo registro 10, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 10 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 13
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo cc9d en registro 0
+Lectura desde reg 0: 009d
+
+Valor de SEL: 0000:
+Valor de DATA_drive: cc9d:
+Valor de dato_leido: 009d:
+SCOREBOARD escritura OK: REG = 0 | Dato de entrada = cc9d | Leido = 009d
+
+Repeticion: 14
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo d653 en registro 3
+Lectura desde reg 3: 0053
+
+Valor de SEL: 0011:
+Valor de DATA_drive: d653:
+Valor de dato_leido: 0053:
+SCOREBOARD escritura OK: REG = 3 | Dato de entrada = d653 | Leido = 0053
+
+Repeticion: 15
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 5, dato_leido = 0028
+Leyendo registro 5, expected[SEL] = 0028
+
+SCOREBOARD lectura OK: REG = 5 | Dato Leido = 0028 | Dato esperado = 0028
+
+Repeticion: 16
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 72cf en registro 14
+Lectura desde reg 14: 72cf
+
+Valor de SEL: 1110:
+Valor de DATA_drive: 72cf:
+Valor de dato_leido: 72cf:
+SCOREBOARD escritura OK: REG = 14 | Dato de entrada = 72cf | Leido = 72cf
+
+Repeticion: 17
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 10, dato_leido = 0000
+Leyendo registro 10, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 10 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 18
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 618a en registro 12
+Lectura desde reg 12: 618a
+
+Valor de SEL: 1100:
+Valor de DATA_drive: 618a:
+Valor de dato_leido: 618a:
+SCOREBOARD escritura OK: REG = 12 | Dato de entrada = 618a | Leido = 618a
+
+Repeticion: 19
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 8, dato_leido = 009d
+Leyendo registro 8, expected[SEL] = 0000
+
+SCOREBOARD lectura ERROR: REG = 8 | Dato Leido = 009d | Dato esperado = 0000
+
+Repeticion: 20
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 65b6 en registro 9
+Lectura desde reg 9: 65b6
+
+Valor de SEL: 1001:
+Valor de DATA_drive: 65b6:
+Valor de dato_leido: 65b6:
+SCOREBOARD escritura OK: REG = 9 | Dato de entrada = 65b6 | Leido = 65b6
+
+Repeticion: 21
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo dd2a en registro 14
+Lectura desde reg 14: dd2a
+
+Valor de SEL: 1110:
+Valor de DATA_drive: dd2a:
+Valor de dato_leido: dd2a:
+SCOREBOARD escritura OK: REG = 14 | Dato de entrada = dd2a | Leido = dd2a
+
+Repeticion: 22
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 1, dato_leido = 00b6
+Leyendo registro 1, expected[SEL] = 0063
+
+SCOREBOARD lectura ERROR: REG = 1 | Dato Leido = 00b6 | Dato esperado = 0063
+
+Repeticion: 23
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 15, dato_leido = 96ce
+Leyendo registro 15, expected[SEL] = 96ce
+
+SCOREBOARD lectura OK: REG = 15 | Dato Leido = 96ce | Dato esperado = 96ce
+
+Repeticion: 24
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 10, dato_leido = 0000
+Leyendo registro 10, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 10 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 25
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 4bd9 en registro 5
+Lectura desde reg 5: 004b
+
+Valor de SEL: 0101:
+Valor de DATA_drive: 4bd9:
+Valor de dato_leido: 004b:
+SCOREBOARD escritura OK: REG = 5 | Dato de entrada = 4bd9 | Leido = 004b
+
+Repeticion: 26
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo ffff en registro 12
+Lectura desde reg 12: ffff
+
+Valor de SEL: 1100:
+Valor de DATA_drive: ffff:
+Valor de dato_leido: ffff:
+SCOREBOARD escritura OK: REG = 12 | Dato de entrada = ffff | Leido = ffff
+
+Repeticion: 27
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 8, dato_leido = 009d
+Leyendo registro 8, expected[SEL] = 0000
+
+SCOREBOARD lectura ERROR: REG = 8 | Dato Leido = 009d | Dato esperado = 0000
+
+Repeticion: 28
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 15, dato_leido = 96ce
+Leyendo registro 15, expected[SEL] = 96ce
+
+SCOREBOARD lectura OK: REG = 15 | Dato Leido = 96ce | Dato esperado = 96ce
+
+Repeticion: 29
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 3249 en registro 11
+Lectura desde reg 11: 3249
+
+Valor de SEL: 1011:
+Valor de DATA_drive: 3249:
+Valor de dato_leido: 3249:
+SCOREBOARD escritura OK: REG = 11 | Dato de entrada = 3249 | Leido = 3249
+
+Repeticion: 30
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 2f96 en registro 7
+Lectura desde reg 7: 002f
+
+Valor de SEL: 0111:
+Valor de DATA_drive: 2f96:
+Valor de dato_leido: 002f:
+SCOREBOARD escritura OK: REG = 7 | Dato de entrada = 2f96 | Leido = 002f
+
+Repeticion: 31
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 0000 en registro 2
+Lectura desde reg 2: 0000
+
+Valor de SEL: 0010:
+Valor de DATA_drive: 0000:
+Valor de dato_leido: 0000:
+SCOREBOARD escritura OK: REG = 2 | Dato de entrada = 0000 | Leido = 0000
+
+Repeticion: 32
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 13, dato_leido = f78c
+Leyendo registro 13, expected[SEL] = f78c
+
+SCOREBOARD lectura OK: REG = 13 | Dato Leido = f78c | Dato esperado = f78c
+
+Repeticion: 33
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo e739 en registro 14
+Lectura desde reg 14: e739
+
+Valor de SEL: 1110:
+Valor de DATA_drive: e739:
+Valor de dato_leido: e739:
+SCOREBOARD escritura OK: REG = 14 | Dato de entrada = e739 | Leido = e739
+
+Repeticion: 34
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 3, dato_leido = 0049
+Leyendo registro 3, expected[SEL] = 0053
+
+SCOREBOARD lectura ERROR: REG = 3 | Dato Leido = 0049 | Dato esperado = 0053
+
+Repeticion: 35
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 8, dato_leido = 0096
+Leyendo registro 8, expected[SEL] = 0000
+
+SCOREBOARD lectura ERROR: REG = 8 | Dato Leido = 0096 | Dato esperado = 0000
+
+Repeticion: 36
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 9, dato_leido = 4bb6
+Leyendo registro 9, expected[SEL] = 65b6
+
+SCOREBOARD lectura ERROR: REG = 9 | Dato Leido = 4bb6 | Dato esperado = 65b6
+
+Repeticion: 37
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 10, dato_leido = 0000
+Leyendo registro 10, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 10 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 38
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo f29c en registro 6
+Lectura desde reg 6: 00f2
+
+Valor de SEL: 0110:
+Valor de DATA_drive: f29c:
+Valor de dato_leido: 00f2:
+SCOREBOARD escritura OK: REG = 6 | Dato de entrada = f29c | Leido = 00f2
+
+Repeticion: 39
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo b4a3 en registro 6
+Lectura desde reg 6: 00b4
+
+Valor de SEL: 0110:
+Valor de DATA_drive: b4a3:
+Valor de dato_leido: 00b4:
+SCOREBOARD escritura OK: REG = 6 | Dato de entrada = b4a3 | Leido = 00b4
+
+Repeticion: 40
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 3, dato_leido = 0049
+Leyendo registro 3, expected[SEL] = 0053
+
+SCOREBOARD lectura ERROR: REG = 3 | Dato Leido = 0049 | Dato esperado = 0053
+
+Repeticion: 41
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 4, dato_leido = 0000
+Leyendo registro 4, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 4 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 42
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 11, dato_leido = 2f49
+Leyendo registro 11, expected[SEL] = 3249
+
+SCOREBOARD lectura ERROR: REG = 11 | Dato Leido = 2f49 | Dato esperado = 3249
+
+Repeticion: 43
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo e2ed en registro 10
+Lectura desde reg 10: e2ed
+
+Valor de SEL: 1010:
+Valor de DATA_drive: e2ed:
+Valor de dato_leido: e2ed:
+SCOREBOARD escritura OK: REG = 10 | Dato de entrada = e2ed | Leido = e2ed
+
+Repeticion: 44
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 94df en registro 5
+Lectura desde reg 5: 0094
+
+Valor de SEL: 0101:
+Valor de DATA_drive: 94df:
+Valor de dato_leido: 0094:
+SCOREBOARD escritura OK: REG = 5 | Dato de entrada = 94df | Leido = 0094
+
+Repeticion: 45
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 4, dato_leido = 0000
+Leyendo registro 4, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 4 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 46
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo cf0e en registro 10
+Lectura desde reg 10: cf0e
+
+Valor de SEL: 1010:
+Valor de DATA_drive: cf0e:
+Valor de dato_leido: cf0e:
+SCOREBOARD escritura OK: REG = 10 | Dato de entrada = cf0e | Leido = cf0e
+
+Repeticion: 47
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 02c3 en registro 10
+Lectura desde reg 10: 02c3
+
+Valor de SEL: 1010:
+Valor de DATA_drive: 02c3:
+Valor de dato_leido: 02c3:
+SCOREBOARD escritura OK: REG = 10 | Dato de entrada = 02c3 | Leido = 02c3
+
+Repeticion: 48
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo ffff en registro 14
+Lectura desde reg 14: ffff
+
+Valor de SEL: 1110:
+Valor de DATA_drive: ffff:
+Valor de dato_leido: ffff:
+SCOREBOARD escritura OK: REG = 14 | Dato de entrada = ffff | Leido = ffff
+
+Repeticion: 49
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 0000 en registro 6
+Lectura desde reg 6: 0000
+
+Valor de SEL: 0110:
+Valor de DATA_drive: 0000:
+Valor de dato_leido: 0000:
+SCOREBOARD escritura OK: REG = 6 | Dato de entrada = 0000 | Leido = 0000
+
+Repeticion: 50
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 8, dato_leido = 0000
+Leyendo registro 8, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 8 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 51
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo ca59 en registro 3
+Lectura desde reg 3: 0059
+
+Valor de SEL: 0011:
+Valor de DATA_drive: ca59:
+Valor de dato_leido: 0059:
+SCOREBOARD escritura OK: REG = 3 | Dato de entrada = ca59 | Leido = 0059
+
+Repeticion: 52
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 13, dato_leido = f78c
+Leyendo registro 13, expected[SEL] = f78c
+
+SCOREBOARD lectura OK: REG = 13 | Dato Leido = f78c | Dato esperado = f78c
+
+Repeticion: 53
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 13, dato_leido = f78c
+Leyendo registro 13, expected[SEL] = f78c
+
+SCOREBOARD lectura OK: REG = 13 | Dato Leido = f78c | Dato esperado = f78c
+
+Repeticion: 54
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 7195 en registro 10
+Lectura desde reg 10: 7195
+
+Valor de SEL: 1010:
+Valor de DATA_drive: 7195:
+Valor de dato_leido: 7195:
+SCOREBOARD escritura OK: REG = 10 | Dato de entrada = 7195 | Leido = 7195
+
+Repeticion: 55
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo ffff en registro 4
+Lectura desde reg 4: 00ff
+
+Valor de SEL: 0100:
+Valor de DATA_drive: ffff:
+Valor de dato_leido: 00ff:
+SCOREBOARD escritura OK: REG = 4 | Dato de entrada = ffff | Leido = 00ff
+
+Repeticion: 56
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 4, dato_leido = 00ff
+Leyendo registro 4, expected[SEL] = 00ff
+
+SCOREBOARD lectura OK: REG = 4 | Dato Leido = 00ff | Dato esperado = 00ff
+
+Repeticion: 57
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 30c7 en registro 8
+Lectura desde reg 8: 30c7
+
+Valor de SEL: 1000:
+Valor de DATA_drive: 30c7:
+Valor de dato_leido: 30c7:
+SCOREBOARD escritura OK: REG = 8 | Dato de entrada = 30c7 | Leido = 30c7
+
+Repeticion: 58
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo a6fd en registro 8
+Lectura desde reg 8: a6fd
+
+Valor de SEL: 1000:
+Valor de DATA_drive: a6fd:
+Valor de dato_leido: a6fd:
+SCOREBOARD escritura OK: REG = 8 | Dato de entrada = a6fd | Leido = a6fd
+
+Repeticion: 59
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 12, dato_leido = ffff
+Leyendo registro 12, expected[SEL] = ffff
+
+SCOREBOARD lectura OK: REG = 12 | Dato Leido = ffff | Dato esperado = ffff
+
+Repeticion: 60
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo a766 en registro 10
+Lectura desde reg 10: a766
+
+Valor de SEL: 1010:
+Valor de DATA_drive: a766:
+Valor de dato_leido: a766:
+SCOREBOARD escritura OK: REG = 10 | Dato de entrada = a766 | Leido = a766
+
+Repeticion: 61
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo b35e en registro 3
+Lectura desde reg 3: 005e
+
+Valor de SEL: 0011:
+Valor de DATA_drive: b35e:
+Valor de dato_leido: 005e:
+SCOREBOARD escritura OK: REG = 3 | Dato de entrada = b35e | Leido = 005e
+
+Repeticion: 62
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 00b9 en registro 5
+Lectura desde reg 5: 0000
+
+Valor de SEL: 0101:
+Valor de DATA_drive: 00b9:
+Valor de dato_leido: 0000:
+SCOREBOARD escritura OK: REG = 5 | Dato de entrada = 00b9 | Leido = 0000
+
+Repeticion: 63
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 6, dato_leido = 00a7
+Leyendo registro 6, expected[SEL] = 0000
+
+SCOREBOARD lectura ERROR: REG = 6 | Dato Leido = 00a7 | Dato esperado = 0000
+
+Repeticion: 64
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 837d en registro 6
+Lectura desde reg 6: 0083
+
+Valor de SEL: 0110:
+Valor de DATA_drive: 837d:
+Valor de dato_leido: 0083:
+SCOREBOARD escritura OK: REG = 6 | Dato de entrada = 837d | Leido = 0083
+
+Repeticion: 65
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 0000 en registro 6
+Lectura desde reg 6: 0000
+
+Valor de SEL: 0110:
+Valor de DATA_drive: 0000:
+Valor de dato_leido: 0000:
+SCOREBOARD escritura OK: REG = 6 | Dato de entrada = 0000 | Leido = 0000
+
+Repeticion: 66
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo ffff en registro 11
+Lectura desde reg 11: ffff
+
+Valor de SEL: 1011:
+Valor de DATA_drive: ffff:
+Valor de dato_leido: ffff:
+SCOREBOARD escritura OK: REG = 11 | Dato de entrada = ffff | Leido = ffff
+
+Repeticion: 67
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 10, dato_leido = 0066
+Leyendo registro 10, expected[SEL] = a766
+
+SCOREBOARD lectura ERROR: REG = 10 | Dato Leido = 0066 | Dato esperado = a766
+
+Repeticion: 68
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 7, dato_leido = 00ff
+Leyendo registro 7, expected[SEL] = 002f
+
+SCOREBOARD lectura ERROR: REG = 7 | Dato Leido = 00ff | Dato esperado = 002f
+
+Repeticion: 69
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 6, dato_leido = 0000
+Leyendo registro 6, expected[SEL] = 0000
+
+SCOREBOARD lectura OK: REG = 6 | Dato Leido = 0000 | Dato esperado = 0000
+
+Repeticion: 70
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 8a29 en registro 5
+Lectura desde reg 5: 008a
+
+Valor de SEL: 0101:
+Valor de DATA_drive: 8a29:
+Valor de dato_leido: 008a:
+SCOREBOARD escritura OK: REG = 5 | Dato de entrada = 8a29 | Leido = 008a
+
+Repeticion: 71
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 5, dato_leido = 008a
+Leyendo registro 5, expected[SEL] = 008a
+
+SCOREBOARD lectura OK: REG = 5 | Dato Leido = 008a | Dato esperado = 008a
+
+Repeticion: 72
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo e6ec en registro 11
+Lectura desde reg 11: e6ec
+
+Valor de SEL: 1011:
+Valor de DATA_drive: e6ec:
+Valor de dato_leido: e6ec:
+SCOREBOARD escritura OK: REG = 11 | Dato de entrada = e6ec | Leido = e6ec
+
+Repeticion: 73
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 0000 en registro 14
+Lectura desde reg 14: 0000
+
+Valor de SEL: 1110:
+Valor de DATA_drive: 0000:
+Valor de dato_leido: 0000:
+SCOREBOARD escritura OK: REG = 14 | Dato de entrada = 0000 | Leido = 0000
+
+Repeticion: 74
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 1, dato_leido = 00b6
+Leyendo registro 1, expected[SEL] = 0063
+
+SCOREBOARD lectura ERROR: REG = 1 | Dato Leido = 00b6 | Dato esperado = 0063
+
+Repeticion: 75
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo ffff en registro 6
+Lectura desde reg 6: 00ff
+
+Valor de SEL: 0110:
+Valor de DATA_drive: ffff:
+Valor de dato_leido: 00ff:
+SCOREBOARD escritura OK: REG = 6 | Dato de entrada = ffff | Leido = 00ff
+
+Repeticion: 76
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo ff9e en registro 10
+Lectura desde reg 10: ff9e
+
+Valor de SEL: 1010:
+Valor de DATA_drive: ff9e:
+Valor de dato_leido: ff9e:
+SCOREBOARD escritura OK: REG = 10 | Dato de entrada = ff9e | Leido = ff9e
+
+Repeticion: 77
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 0000 en registro 9
+Lectura desde reg 9: 0000
+
+Valor de SEL: 1001:
+Valor de DATA_drive: 0000:
+Valor de dato_leido: 0000:
+SCOREBOARD escritura OK: REG = 9 | Dato de entrada = 0000 | Leido = 0000
+
+Repeticion: 78
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo aec7 en registro 3
+Lectura desde reg 3: 00c7
+
+Valor de SEL: 0011:
+Valor de DATA_drive: aec7:
+Valor de dato_leido: 00c7:
+SCOREBOARD escritura OK: REG = 3 | Dato de entrada = aec7 | Leido = 00c7
+
+Repeticion: 79
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 95b9 en registro 10
+Lectura desde reg 10: 95b9
+
+Valor de SEL: 1010:
+Valor de DATA_drive: 95b9:
+Valor de dato_leido: 95b9:
+SCOREBOARD escritura OK: REG = 10 | Dato de entrada = 95b9 | Leido = 95b9
+
+Repeticion: 80
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo ffff en registro 4
+Lectura desde reg 4: 00ff
+
+Valor de SEL: 0100:
+Valor de DATA_drive: ffff:
+Valor de dato_leido: 00ff:
+SCOREBOARD escritura OK: REG = 4 | Dato de entrada = ffff | Leido = 00ff
+
+Repeticion: 81
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 2132 en registro 10
+Lectura desde reg 10: 2132
+
+Valor de SEL: 1010:
+Valor de DATA_drive: 2132:
+Valor de dato_leido: 2132:
+SCOREBOARD escritura OK: REG = 10 | Dato de entrada = 2132 | Leido = 2132
+
+Repeticion: 82
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 4, dato_leido = 00ff
+Leyendo registro 4, expected[SEL] = 00ff
+
+SCOREBOARD lectura OK: REG = 4 | Dato Leido = 00ff | Dato esperado = 00ff
+
+Repeticion: 83
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo a8a1 en registro 10
+Lectura desde reg 10: a8a1
+
+Valor de SEL: 1010:
+Valor de DATA_drive: a8a1:
+Valor de dato_leido: a8a1:
+SCOREBOARD escritura OK: REG = 10 | Dato de entrada = a8a1 | Leido = a8a1
+
+Repeticion: 84
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 90ef en registro 11
+Lectura desde reg 11: 90ef
+
+Valor de SEL: 1011:
+Valor de DATA_drive: 90ef:
+Valor de dato_leido: 90ef:
+SCOREBOARD escritura OK: REG = 11 | Dato de entrada = 90ef | Leido = 90ef
+
+Repeticion: 85
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 6, dato_leido = 00a8
+Leyendo registro 6, expected[SEL] = 00ff
+
+SCOREBOARD lectura ERROR: REG = 6 | Dato Leido = 00a8 | Dato esperado = 00ff
+
+Repeticion: 86
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 15, dato_leido = 96ce
+Leyendo registro 15, expected[SEL] = 96ce
+
+SCOREBOARD lectura OK: REG = 15 | Dato Leido = 96ce | Dato esperado = 96ce
+
+Repeticion: 87
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 8, dato_leido = ffff
+Leyendo registro 8, expected[SEL] = a6fd
+
+SCOREBOARD lectura ERROR: REG = 8 | Dato Leido = ffff | Dato esperado = a6fd
+
+Repeticion: 88
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo df28 en registro 11
+Lectura desde reg 11: df28
+
+Valor de SEL: 1011:
+Valor de DATA_drive: df28:
+Valor de dato_leido: df28:
+SCOREBOARD escritura OK: REG = 11 | Dato de entrada = df28 | Leido = df28
+
+Repeticion: 89
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 11, dato_leido = df28
+Leyendo registro 11, expected[SEL] = df28
+
+SCOREBOARD lectura OK: REG = 11 | Dato Leido = df28 | Dato esperado = df28
+
+Repeticion: 90
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo fdec en registro 14
+Lectura desde reg 14: fdec
+
+Valor de SEL: 1110:
+Valor de DATA_drive: fdec:
+Valor de dato_leido: fdec:
+SCOREBOARD escritura OK: REG = 14 | Dato de entrada = fdec | Leido = fdec
+
+Repeticion: 91
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 2441 en registro 1
+Lectura desde reg 1: 0041
+
+Valor de SEL: 0001:
+Valor de DATA_drive: 2441:
+Valor de dato_leido: 0041:
+SCOREBOARD escritura OK: REG = 1 | Dato de entrada = 2441 | Leido = 0041
+
+Repeticion: 92
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 8, dato_leido = ffff
+Leyendo registro 8, expected[SEL] = a6fd
+
+SCOREBOARD lectura ERROR: REG = 8 | Dato Leido = ffff | Dato esperado = a6fd
+
+Repeticion: 93
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 6, dato_leido = 00a8
+Leyendo registro 6, expected[SEL] = 00ff
+
+SCOREBOARD lectura ERROR: REG = 6 | Dato Leido = 00a8 | Dato esperado = 00ff
+
+Repeticion: 94
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 2, dato_leido = 00a1
+Leyendo registro 2, expected[SEL] = 0000
+
+SCOREBOARD lectura ERROR: REG = 2 | Dato Leido = 00a1 | Dato esperado = 0000
+
+Repeticion: 95
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo 0000 en registro 3
+Lectura desde reg 3: 0000
+
+Valor de SEL: 0011:
+Valor de DATA_drive: 0000:
+Valor de dato_leido: 0000:
+SCOREBOARD escritura OK: REG = 3 | Dato de entrada = 0000 | Leido = 0000
+
+Repeticion: 96
+Valor de RD: 0 (ESCRITURA DE REGISTROS)
+Escribiendo b6e5 en registro 8
+Lectura desde reg 8: b6e5
+
+Valor de SEL: 1000:
+Valor de DATA_drive: b6e5:
+Valor de dato_leido: b6e5:
+SCOREBOARD escritura OK: REG = 8 | Dato de entrada = b6e5 | Leido = b6e5
+
+Repeticion: 97
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 11, dato_leido = df00
+Leyendo registro 11, expected[SEL] = df28
+
+SCOREBOARD lectura ERROR: REG = 11 | Dato Leido = df00 | Dato esperado = df28
+
+Repeticion: 98
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 8, dato_leido = b6e5
+Leyendo registro 8, expected[SEL] = b6e5
+
+SCOREBOARD lectura OK: REG = 8 | Dato Leido = b6e5 | Dato esperado = b6e5
+
+Repeticion: 99
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 1, dato_leido = 0041
+Leyendo registro 1, expected[SEL] = 0041
+
+SCOREBOARD lectura OK: REG = 1 | Dato Leido = 0041 | Dato esperado = 0041
+
+Repeticion: 100
+Valor de RD: 1 (LECTURA DE REGISTROS)
+Leyendo registro 4, dato_leido = 00b6
+Leyendo registro 4, expected[SEL] = 00ff
+
+Tester terminado.
+Resumen final:
+Escrituras Totales Correctas: 52
+Escrituras Totales Erroneas: 0
+Lecturas Totales Correctos: 29
+Lecturas Totales Erroneas: 18

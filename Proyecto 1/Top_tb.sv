@@ -57,7 +57,8 @@ initial begin
     RST = 1; WR = 0; RD = 0; SEL = 0;
     DATA_drive = 16'h0000;
     DATA_en = 0;
-    #20 RST = 0;
+    #20 
+    RST = 0;
 
 
 
